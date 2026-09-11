@@ -34,8 +34,6 @@ questions:
     question: 移動のモードを選択してください
     type: single
     layout: grid
-    optionVisualSize: 28
-    optionContainerSize: 52
     options:
       - value: 自走式車椅子
         icon: accessible
